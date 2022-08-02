@@ -1,3 +1,1 @@
-https://pypi.tuna.tsinghua.edu.cn/simple/numpy
-https://pypi.tuna.tsinghua.edu.cn/simple/qiskit  
-https://pypi.tuna.tsinghua.edu.cn/simple/matplotlib
+https://pypi.douban.com/simple --trusted-host pypi.douban.com numpy==1.21.0
