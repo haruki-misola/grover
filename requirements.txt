@@ -1,1 +1,1 @@
-https://pypi.douban.com/simple --trusted-host pypi.douban.com numpy==1.21.0
+-i https://pypi.douban.com/simple --trusted-host pypi.douban.com numpy==1.21.0
