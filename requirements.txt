@@ -1,1 +1,1 @@
-https://pypi.doubanio.com/packages/a6/cf/a4b4398cabe57968d44d4091ed6644f69704f4783c90c05fa480a8fb0b11/numpy-1.11.3-cp36-cp36m-manylinux1_x86_64.whl#sha256=3907299380cd824d9feef9780340c0bc1ba2af1217fc927a931e5f193b8c2dea
+https://pypi.doubanio.com/packages/3e/bf/757f747d0a09a9bcc833c5024c72d0d4b4ab1c26d207ed2692cc68a2aa5f/numpy-1.19.0-pp36-pypy36_pp73-manylinux2010_x86_64.whl#sha256=8cde829f14bd38f6da7b2954be0f2837043e8b8d7a9110ec5e318ae6bf706610
