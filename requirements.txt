@@ -1,1 +1,1 @@
--i https://pypi.douban.com/simple --trusted-host pypi.douban.com numpy==1.21.0
+https://pypi.doubanio.com/packages/e8/09/c537ee481e03bd9a282779eab099d1410e6b8239e58d82fc26e19896dc33/numpy-1.21.0rc2-cp39-cp39-manylinux_2_12_i686.manylinux2010_i686.whl#sha256=93d0cb1b07511d1b108346975cd34cc1c32b7061fbb574ef4ce8fc8139cce417
