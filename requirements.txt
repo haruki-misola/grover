@@ -1,1 +1,1 @@
-https://pypi.doubanio.com/packages/e5/c4/395ebb218053ba44d64935b3729bc88241ec279915e72100c5979db10945/numpy-1.14.6-cp36-cp36m-manylinux1_x86_64.whl#sha256=4ab59a69a627ee73a2723b60723abfe0404947c16acef7b0880d6bbec93ba7cd
+numpy
