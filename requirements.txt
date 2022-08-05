@@ -1,6 +1,3 @@
-import numpy as np
-import qiskit
-from matplotlib import pyplot as plt
-from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit, assemble, transpile
-from qiskit.providers.aer import Aer
-from qiskit.visualization import plot_histogram
+numpy
+qiskit
+matplotlib
